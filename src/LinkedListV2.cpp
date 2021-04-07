@@ -1,5 +1,6 @@
 #include "linked_listV2.h"
 #include <algorithm>
+#include <string>
 
 
 using namespace std;
