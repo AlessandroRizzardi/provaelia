@@ -5,6 +5,8 @@
 #include <string.h>
 #include <stdexcept>
 
+using namespace std;
+
 namespace llst{
 
     void debug(string msg);
