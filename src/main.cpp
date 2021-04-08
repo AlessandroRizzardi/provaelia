@@ -1,8 +1,13 @@
 #include "linked_listV2.h"
-//hey!! tu cosa vuoi
+
+
+//cavolo
+
 
 using namespace std;
 using namespace llst;
+
+//hey
 
 int main(int, char**){ 
 

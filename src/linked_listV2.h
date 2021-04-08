@@ -5,7 +5,11 @@
 #include <string.h>
 #include <stdexcept>
 
+<<<<<<< HEAD
 using namespace std;
+=======
+//prova2
+>>>>>>> ramo1
 
 namespace llst{
 
