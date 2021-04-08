@@ -1,4 +1,5 @@
 #include "linked_listV2.h"
+cavolo
 
 using namespace std;
 using namespace llst;
