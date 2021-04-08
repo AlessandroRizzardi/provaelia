@@ -1,4 +1,5 @@
 #include "linked_listV2.h"
+//hey!! tu cosa vuoi??
 
 using namespace std;
 using namespace llst;
